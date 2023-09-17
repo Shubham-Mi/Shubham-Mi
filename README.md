@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shubham Mittal</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate coder and open source enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-mi&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-mi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-mi" alt="shubham-mi" /></a> </p>
 
-- 🔭 I’m currently working at **TinyEmail**
+- 🔭 I’m currently working at [TinyEmail](https://github.com/TinyEmail)
+
+- 🌱 I’m currently learning **React, DSA, Spring Boot**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
@@ -20,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubham-mittal-701220193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-mittal-701220193" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shubham-mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shubham-mittal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16806545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16806545" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mittalshu1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mittalshu1234" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shubham_mi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shubham_mi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shubham_mi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham_mi" height="30" width="40" /></a>
@@ -33,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-mi&show_icons=true&locale=en&layout=compact" alt="shubham-mi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-mi&show_icons=true&locale=en" alt="shubham-mi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-mi&" alt="shubham-mi" /></p>
