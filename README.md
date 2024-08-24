@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shubham.mitt112@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N8cqYvVOT12XYlHBtB5uA8Fl0OD9s_ak/view?usp=sharing](https://drive.google.com/file/d/1N8cqYvVOT12XYlHBtB5uA8Fl0OD9s_ak/view?usp=sharing)
+- 📄 Know about my experiences [Shubham_Mittal_Resume](https://drive.google.com/file/d/1uoT2TNj5Wx6enyyEVWPL7oF6syPK8m0W/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
