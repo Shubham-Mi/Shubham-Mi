@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/_shubham_mi" target="blank"><img src="https://img.shields.io/twitter/follow/_shubham_mi?logo=twitter&style=for-the-badge" alt="_shubham_mi" /></a> </p>
 
-- 🔭 I’m currently working on [TinyEmail](https://github.com/TinyEmail)
+- 🔭 I’m currently working at [TinyCo.ai](https://www.tinyco.ai/)
 
 - 🌱 I’m currently learning **React, DSA, Spring Boot**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 💬 Ask me about **JavaScript, React, Node.js, spring boot**
+- 💬 Ask me about **Spring Boot, JavaScript, React, Node.js**
 
 - 📫 How to reach me **shubham.mitt112@gmail.com**
 
-- 📄 Know about my experiences [Shubham_Mittal_Resume](https://drive.google.com/file/d/1uoT2TNj5Wx6enyyEVWPL7oF6syPK8m0W/view?usp=sharing)
+- 📄 Know about my experiences [Shubham Mittal Portfolio](https://shubham-mi.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
